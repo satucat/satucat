@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I'm Saturn, a script kiddie
+  I'm Saturn
 </p>
 <p align="center">
   I'm mostly interested in portal and windows development. Please release Portal 3..
